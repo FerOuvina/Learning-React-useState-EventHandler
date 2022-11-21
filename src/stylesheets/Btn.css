@@ -1,0 +1,32 @@
+:root {
+  --cyan: #acdbc9;
+  --light-green: #d8ebc2;
+  --orange: #fdd2b5;
+  --pink: #f7a7a6;
+  --red: #f48b94;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid;
+  border-radius: 10px;
+}
+
+.counter__container--clickBtn {
+  background: var(--cyan);
+}
+.counter__container--clickBtn:hover {
+  background: #73b99d;
+}
+
+.counter__container--restartBtn {
+  background: var(--red);
+}
+.counter__container--restartBtn:hover {
+  background: #d96f77;
+}
