@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Learning-React-useState-EventHandler/static/css/main.4a4ef6cf.css",
+    "main.js": "/Learning-React-useState-EventHandler/static/js/main.9aa9e41a.js",
+    "static/media/duck.gif": "/Learning-React-useState-EventHandler/static/media/duck.52e7357b458f5d052ea0.gif",
+    "index.html": "/Learning-React-useState-EventHandler/index.html",
+    "main.4a4ef6cf.css.map": "/Learning-React-useState-EventHandler/static/css/main.4a4ef6cf.css.map",
+    "main.9aa9e41a.js.map": "/Learning-React-useState-EventHandler/static/js/main.9aa9e41a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4ef6cf.css",
+    "static/js/main.9aa9e41a.js"
+  ]
+}
